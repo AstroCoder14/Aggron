@@ -1,0 +1,43 @@
+* {
+    background-color: darkgrey;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    background-color: grey;
+}
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+header {
+
+}
+body{
+
+}
+
+#Moves{
+    background-color: grey;
+}
+
+.section{
+    background-color: grey;
+    text-decoration: underline;
+}
+
+.steel{
+    background-color: rgb(138, 143, 148);
+    font-weight: bold;
+}
+
+.rock{
+    background-color: rgb(160, 67, 0);
+    font-weight: bold;
+}
+
+.normal{
+    background-color: rgb(214, 214, 214);
+    font-weight: bold;
+}
